@@ -1,0 +1,17 @@
+2025-06-18 08:08:19,956 - INFO - Starting continuous monitoring (every 15 minutes)
+2025-06-18 08:08:19,956 - INFO - Data will be saved to: nse_insider_trading_data.csv
+2025-06-18 08:08:19,956 - INFO - Press Ctrl+C to stop
+2025-06-18 08:08:19,956 - INFO - Starting update cycle at 2025-06-18 08:08:19.956030
+2025-06-18 08:08:19,956 - INFO - Getting session cookies...
+2025-06-18 08:08:21,991 - INFO - Homepage status: 200
+2025-06-18 08:08:23,791 - INFO - Insider trading page status: 200
+2025-06-18 08:08:27,234 - INFO - Fetching data from 11-06-2025 to 18-06-2025
+2025-06-18 08:08:27,526 - INFO - API response status: 200
+2025-06-18 08:08:27,532 - INFO - Successfully fetched 449 records
+2025-06-18 08:08:27,532 - INFO - Cleaning data...
+2025-06-18 08:08:27,564 - INFO - Creating new data file
+2025-06-18 08:08:27,573 - INFO - Updated nse_insider_trading_data.csv with 449 new records
+2025-06-18 08:08:27,573 - INFO - Total records in file: 449
+2025-06-18 08:08:27,596 - INFO -  | ================================================== | DATA UPDATE SUMMARY | ================================================== | Timestamp: 2025-06-18 08:08:27 | New records added: 449 | Total records in file: 449 | Unique companies: 122 | Unique symbols: 122 | 
+2025-06-18 08:08:27,597 - INFO - Update cycle completed successfully
+2025-06-18 08:08:27,598 - INFO - Sleeping for 15 minutes...
